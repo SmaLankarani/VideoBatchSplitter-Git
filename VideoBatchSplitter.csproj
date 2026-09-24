@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+
+		<UseWPF>true</UseWPF>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ApplicationIcon>Assets\logo.ico</ApplicationIcon>
+
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<PackageIcon></PackageIcon>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="Assets\logo.ico" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Resource Include="Assets\logo.ico">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </Resource>
+	</ItemGroup>
+
+</Project>
