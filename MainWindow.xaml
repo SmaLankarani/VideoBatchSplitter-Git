@@ -19,6 +19,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
 
@@ -364,7 +365,7 @@
 
         <!-- BUTTONS -->
         <Grid Grid.Row="5"
-              Margin="0,18,0,0">
+      Margin="0,18,0,0">
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
@@ -373,29 +374,39 @@
 
 
             <Button x:Name="StartButton"
-                    Grid.Column="0"
-                    Content="START"
-                    Height="50"
-                    FontSize="15"
-                    FontWeight="Bold"
-                    Background="#1F6FEB"
-                    Foreground="White"
-                    BorderThickness="0"
-                    Click="Start_Click"/>
+            Grid.Column="0"
+            Content="START"
+            Height="50"
+            FontSize="15"
+            FontWeight="Bold"
+            Background="#1F6FEB"
+            Foreground="White"
+            BorderThickness="0"
+            Click="Start_Click"/>
 
 
             <Button x:Name="CancelButton"
-                    Grid.Column="1"
-                    Content="CANCEL"
-                    Width="110"
-                    Height="50"
-                    Margin="12,0,0,0"
-                    FontSize="14"
-                    FontWeight="SemiBold"
-                    IsEnabled="False"
-                    Click="Cancel_Click"/>
+            Grid.Column="1"
+            Content="CANCEL"
+            Width="110"
+            Height="50"
+            Margin="12,0,0,0"
+            FontSize="14"
+            FontWeight="SemiBold"
+            IsEnabled="False"
+            Click="Cancel_Click"/>
 
         </Grid>
+
+
+        <!-- VERSION -->
+        <TextBlock x:Name="VersionText"
+           Grid.Row="6"
+           Text="Version 1.0.0"
+           FontSize="11"
+           Foreground="#8A949E"
+           HorizontalAlignment="Right"
+           Margin="0,8,2,0"/>
 
     </Grid>
 

@@ -13,6 +13,8 @@ namespace VideoBatchSplitter;
 
 public partial class MainWindow : Window
 {
+    private const string AppVersion = "1.0.0";
+
     private readonly string[] videoExtensions =
     {
         ".mp4", ".mkv", ".avi", ".mov", ".wmv", ".webm",
@@ -27,6 +29,8 @@ public partial class MainWindow : Window
     public MainWindow()
     {
         InitializeComponent();
+
+        VersionText.Text = $"Version: {AppVersion}";
     }
 
 
