@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smala\\Downloads\\VideoBatchSplitter\\VideoBatchSplitter\\VideoBatchSplitter.csproj": {}
+    "D:\\Project\\VideoBatchSplitter Git\\VideoBatchSplitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smala\\Downloads\\VideoBatchSplitter\\VideoBatchSplitter\\VideoBatchSplitter.csproj": {
+    "D:\\Project\\VideoBatchSplitter Git\\VideoBatchSplitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smala\\Downloads\\VideoBatchSplitter\\VideoBatchSplitter\\VideoBatchSplitter.csproj",
+        "projectUniqueName": "D:\\Project\\VideoBatchSplitter Git\\VideoBatchSplitter.csproj",
         "projectName": "VideoBatchSplitter",
-        "projectPath": "C:\\Users\\smala\\Downloads\\VideoBatchSplitter\\VideoBatchSplitter\\VideoBatchSplitter.csproj",
+        "projectPath": "D:\\Project\\VideoBatchSplitter Git\\VideoBatchSplitter.csproj",
         "packagesPath": "C:\\Users\\smala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smala\\Downloads\\VideoBatchSplitter\\VideoBatchSplitter\\obj\\",
+        "outputPath": "D:\\Project\\VideoBatchSplitter Git\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

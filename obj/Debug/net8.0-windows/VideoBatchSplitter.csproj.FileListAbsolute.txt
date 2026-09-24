@@ -17,3 +17,23 @@ C:\Users\smala\Downloads\VideoBatchSplitter\VideoBatchSplitter\obj\Debug\net8.0-
 C:\Users\smala\Downloads\VideoBatchSplitter\VideoBatchSplitter\obj\Debug\net8.0-windows\VideoBatchSplitter.pdb
 C:\Users\smala\Downloads\VideoBatchSplitter\VideoBatchSplitter\obj\Debug\net8.0-windows\VideoBatchSplitter.genruntimeconfig.cache
 C:\Users\smala\Downloads\VideoBatchSplitter\VideoBatchSplitter\obj\Debug\net8.0-windows\ref\VideoBatchSplitter.dll
+D:\Project\VideoBatchSplitter Git\bin\Debug\net8.0-windows\VideoBatchSplitter.exe
+D:\Project\VideoBatchSplitter Git\bin\Debug\net8.0-windows\VideoBatchSplitter.deps.json
+D:\Project\VideoBatchSplitter Git\bin\Debug\net8.0-windows\VideoBatchSplitter.runtimeconfig.json
+D:\Project\VideoBatchSplitter Git\bin\Debug\net8.0-windows\VideoBatchSplitter.dll
+D:\Project\VideoBatchSplitter Git\bin\Debug\net8.0-windows\VideoBatchSplitter.pdb
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\App.g.cs
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter_MarkupCompile.cache
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.g.resources
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.AssemblyInfoInputs.cache
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.AssemblyInfo.cs
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.csproj.CoreCompileInputs.cache
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.sourcelink.json
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.dll
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\refint\VideoBatchSplitter.dll
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.pdb
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\VideoBatchSplitter.genruntimeconfig.cache
+D:\Project\VideoBatchSplitter Git\obj\Debug\net8.0-windows\ref\VideoBatchSplitter.dll

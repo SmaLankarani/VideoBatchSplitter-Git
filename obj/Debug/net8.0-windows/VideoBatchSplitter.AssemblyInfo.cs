@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoBatchSplitter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1dfc127a11f09258b714fd5dcaae3ad058b751e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoBatchSplitter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoBatchSplitter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
